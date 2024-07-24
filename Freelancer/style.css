@@ -158,6 +158,10 @@ header .fa-solid {
   background-color: var(--grey);
 }
 
+.btn-rounded {
+  border-radius: 5px
+}
+
 /* working process */
 
 .steps {
